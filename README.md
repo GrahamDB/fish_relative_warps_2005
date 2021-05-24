@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/370403204.svg)](https://zenodo.org/badge/latestdoi/370403204)
+
 # Geometric morphometric relative warps
 Data columns
 1. specimen_no, The row number in this data table.
